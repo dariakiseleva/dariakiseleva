@@ -21,7 +21,7 @@ Check out my portfolio website -->
 
 See my featured projects in my ✨ [portfolio](http://dariakiseleva.github.io) ✨ -->
 
-## Skills 🔧
+<!-- ## Skills 🔧
 
 _Languages_
 
@@ -72,7 +72,7 @@ _Other_
     <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
     <img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white">
     <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
-</div>
+</div> -->
 
 ## Stats 📊
 
