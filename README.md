@@ -21,8 +21,6 @@ Check out my portfolio website -->
 
 See my featured projects in my ✨ [portfolio](http://dariakiseleva.github.io) ✨ -->
 
-<br>
-
 ## Skills 🔧
 
 _Languages_
@@ -66,7 +64,6 @@ _Testing_
     <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
     <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
 </div>
-<br>
 
 ## Stats 📊
 
