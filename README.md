@@ -68,6 +68,13 @@ _Testing_
 </div>
 
 
+## Stats 📊
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariakiseleva&layout=compact&theme=algolia)
+
+![stats](https://github-readme-stats.vercel.app/api?username=dariakiseleva&show_icons=true&locale=en&theme=algolia)
+
+
 <!--
 **dariakiseleva/dariakiseleva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
