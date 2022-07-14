@@ -70,7 +70,7 @@ _Testing_
 
 ## Stats 📊
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariakiseleva&&layout=compact&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dariakiselevaa&&layout=compact&theme=algolia)
 
 ![stats](https://github-readme-stats.vercel.app/api?username=dariakiseleva&show_icons=true&locale=en&theme=algolia)
 
